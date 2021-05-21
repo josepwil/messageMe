@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+User.create(username: "Brian", password: "password")
+User.create(username: "Jason", password: "password")
+User.create(username: "Alice", password: "password")
+User.create(username: "Bob", password: "password")
+User.create(username: "Joe", password: "password")
